@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/hal/Android Projects/MeetingDialer/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/home/hal/.android/build-cache/d431748b28eb538abedf5b03661a93141cec1be9/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/home/hal/Android Projects/MeetingDialer/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/home/hal/.android/build-cache/d431748b28eb538abedf5b03661a93141cec1be9/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    }
+]

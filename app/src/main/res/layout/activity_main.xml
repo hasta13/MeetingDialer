@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:stretchColumns="0"
+    android:shrinkColumns="0"
+    android:background="#80c6fa"
+    tools:context="com.hasta.meetingdialer.MainActivity">
+
+    <!--
+	android:background="#2E4097ff"
+	android:inputType="textMultiLine"
+	android:singleLine="false"
+	android:layout_height="wrap_content"-->
+
+
+
+    <TableRow
+        style="@style/TableRowStyle">
+        <EditText
+            android:id="@+id/num_one"
+            style="@style/EditTextStyle"/>
+        <Button
+            android:id="@+id/call_one"
+            android:onClick="call"
+            style="@style/ButtonStyle"/>
+    </TableRow>
+
+    <TableRow
+        style="@style/TableRowStyle">
+        <EditText
+            android:id="@+id/num_two"
+            style="@style/EditTextStyle"/>
+        <Button
+            android:id="@+id/call_two"
+            android:onClick="call"
+            style="@style/ButtonStyle"/>
+    </TableRow>
+
+    <TableRow
+        style="@style/TableRowStyle">
+        <EditText
+            android:id="@+id/num_three"
+            style="@style/EditTextStyle"/>
+        <Button
+            android:id="@+id/call_three"
+            android:onClick="call"
+            style="@style/ButtonStyle"/>
+    </TableRow>
+
+    <TableRow
+        style="@style/TableRowStyle">
+        <EditText
+            android:id="@+id/num_four"
+            style="@style/EditTextStyle"/>
+        <Button
+            android:id="@+id/call_four"
+            android:onClick="call"
+            style="@style/ButtonStyle"/>
+    </TableRow>
+
+</TableLayout>

@@ -1,0 +1,37 @@
+<resources>
+
+    <style name="AppTheme" parent="@android:style/Theme.Holo.Light">
+    </style>
+    <style name="EditTextStyle" parent="@android:style/TextAppearance.Medium">
+        <item name="android:hint">@string/hint</item>
+        <item name="android:inputType">textMultiLine|phone</item>
+        <item name="android:scrollHorizontally">true</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:background">@drawable/round_corner</item>
+        <item name="android:padding">8sp</item>
+        <!--<item name="android:shadowColor">#0f0f0f</item>
+        <item name="android:shadowRadius">1.6</item>
+        <item name="android:shadowDx">1.5</item>
+        <item name="android:shadowDy">1.3</item>-->
+        <!--<item name="android:includeFontPadding">true</item>-->
+        <!--<item name="android:height">70sp</item>-->
+        <!--<item name="android:textColor">#ffffff</item>-->
+        <item name="android:textColorHint">#d1d1d1</item>
+        <item name="android:layout_marginLeft">10dp</item>
+    </style>
+    <style name="TableRowStyle" parent="@android:style/TextAppearance.Medium">
+        <item name="android:layout_marginTop">20sp</item>
+        <item name="android:layout_marginBottom">20sp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <!--<item name="android:includeFontPadding">true</item>-->
+
+    </style>
+    <style name="ButtonStyle" parent="@android:style/TextAppearance.Medium">
+        <item name="android:layout_width">50dp</item>
+        <item name="android:layout_height">50dp</item>
+        <item name="android:background">@drawable/button_custom</item>
+        <item name="android:layout_marginLeft">10dp</item>
+        <item name="android:layout_marginRight">10dp</item>
+    </style>
+
+</resources>

@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/home/hal/Android Projects/MeetingDialer/app/build/intermediates/res/merged/debug/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/home/hal/.android/build-cache/d431748b28eb538abedf5b03661a93141cec1be9/output/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/home/hal/Android Projects/MeetingDialer/app/build/intermediates/res/merged/debug/color-v23/abc_tint_spinner.xml",
+        "source": "/home/hal/.android/build-cache/d431748b28eb538abedf5b03661a93141cec1be9/output/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/home/hal/Android Projects/MeetingDialer/app/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/home/hal/.android/build-cache/d431748b28eb538abedf5b03661a93141cec1be9/output/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/home/hal/Android Projects/MeetingDialer/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_thumb.xml",
+        "source": "/home/hal/.android/build-cache/d431748b28eb538abedf5b03661a93141cec1be9/output/res/color-v23/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/home/hal/Android Projects/MeetingDialer/app/build/intermediates/res/merged/debug/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/home/hal/.android/build-cache/d431748b28eb538abedf5b03661a93141cec1be9/output/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/home/hal/Android Projects/MeetingDialer/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_track.xml",
+        "source": "/home/hal/.android/build-cache/d431748b28eb538abedf5b03661a93141cec1be9/output/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/home/hal/Android Projects/MeetingDialer/app/build/intermediates/res/merged/debug/color-v23/abc_tint_default.xml",
+        "source": "/home/hal/.android/build-cache/d431748b28eb538abedf5b03661a93141cec1be9/output/res/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "/home/hal/Android Projects/MeetingDialer/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/home/hal/.android/build-cache/d431748b28eb538abedf5b03661a93141cec1be9/output/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/home/hal/Android Projects/MeetingDialer/app/build/intermediates/res/merged/debug/color-v23/abc_tint_edittext.xml",
+        "source": "/home/hal/.android/build-cache/d431748b28eb538abedf5b03661a93141cec1be9/output/res/color-v23/abc_tint_edittext.xml"
+    }
+]

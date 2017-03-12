@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Meeting Dialer</string>
+    <string name="call_button">Call!</string>
+    <string name="hint"><i>Enter number \"#\" or \",\"</i></string>
+</resources>

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/hal/Android Projects/MeetingDialer/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher.png",
+        "source": "/home/hal/Android Projects/MeetingDialer/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/hal/Android Projects/MeetingDialer/app/build/intermediates/res/merged/debug/mipmap-hdpi/launcher_ic.png",
+        "source": "/home/hal/Android Projects/MeetingDialer/app/src/main/res/mipmap-hdpi/launcher_ic.png"
+    }
+]
